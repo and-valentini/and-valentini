@@ -9,7 +9,7 @@
 
 <p align="center">
     <img width="100px"
-         src="https://github.com/and-valentini/and-valentini/blob/master/assets/aws-certified-solutions-architect-associate"
+         src="https://github.com/and-valentini/and-valentini/blob/master/assets/aws-certified-solutions-architect-associate.png"
          align="center"
          alt="AWS solution Architect"
     />
@@ -30,8 +30,7 @@ Attitude in Co-Working and team management.
 
 <div align="center">
 
-| [<img src="https://github.com/and-valentini/and-valentini/blob/master/assets/linkedin.svg" alt="Linkedin Logo" width="32">](https://linkedin.com/in/and-valentini) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/and-valentini) | [<img src="https://github.com/and-valentini/and-valentini/blob/master/assets/gmail.svg" alt="Gmail logo" height="32">](mailto:info@andreavalentini.net)
-|:---:|:---:|:---:|:---:|
+| [<img src="https://github.com/and-valentini/and-valentini/blob/master/assets/linkedin.svg" alt="Linkedin Logo" width="32">](https://linkedin.com/in/andvalentini) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/and-valentini) | [<img src="https://github.com/and-valentini/and-valentini/blob/master/assets/gmail.svg" alt="Gmail logo" height="32">](mailto:info@andreavalentini.net)
 
 </div>
 <br>
